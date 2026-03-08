@@ -1,0 +1,14 @@
+{
+  "notebookSettings": {
+    "idleAutoShutdownTimeSeconds": 900,
+    "externalAccessIntegrations": [],
+    "serviceDefaults": {
+      "runtime": "V2.3-CPU-PY3.12",
+      "computePool": "MY_TRIAL_POOL",
+      "idleTimeoutSec": 900,
+      "externalAccessIntegrations": [],
+      "isGpuRuntime": false,
+      "pythonVersion": "3.12"
+    }
+  }
+}
